@@ -44,7 +44,7 @@ for i in range(len(train_data)):
 print("train data len :" + str(len(text)))
 
 aug_num = 100
-api_key = "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" # 오픈 소스 올릴 시 삭제 바람
+api_key = "..."# 오픈 소스 올릴 시 삭제 바람
 
 openai.api_key = api_key
 MODEL = "gpt-3.5-turbo"
