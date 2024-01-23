@@ -1,5 +1,5 @@
 # AI-vs-Human
-Ai vs human 시도 품
+Ai vs human 데이콘 3일 헤커톤
 
 최고 기록 accuary = 0.57
 
